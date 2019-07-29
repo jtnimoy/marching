@@ -1,5 +1,7 @@
 # marching
 
+![https://github.com/jtnimoy/marching/blob/master/banner.png?raw=true]
+
 marching squares for p5.js
 
 conversión de trama a vector, isosuperficies
